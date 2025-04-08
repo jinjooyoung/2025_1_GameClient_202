@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f88af651f5aca7c4bafbad579efac5a2, type: 3}
+  m_Script: {fileID: 11500000, guid: f4d3ebb97a3864c4d89b6ee010a13c27, type: 3}
   m_Name: Item_0004+Steel Shield
   m_EditorClassIdentifier: 
   id: 4

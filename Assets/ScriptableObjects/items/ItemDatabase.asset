@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ce89b8b8406a264abea439bcd57c406, type: 3}
+  m_Script: {fileID: 11500000, guid: 7006a8205376b7c458a87c7dd2dc65c5, type: 3}
   m_Name: ItemDatabase
   m_EditorClassIdentifier: 
   items:
-  - {fileID: 11400000, guid: a88f60732c8b39741bcd9ed341995ebc, type: 2}
-  - {fileID: 11400000, guid: 69b590ff1aa27ed46aebe64882a546c9, type: 2}
-  - {fileID: 11400000, guid: 48672d7a87028b643ac2c15de9064165, type: 2}
-  - {fileID: 11400000, guid: 8778cf0781279ce498e1290c3ffab3c9, type: 2}
-  - {fileID: 11400000, guid: 6df13bff8f0b61948aea5ae94b7baca5, type: 2}
+  - {fileID: 11400000, guid: 36bbfdefa667adc4ea47ee4b968d723c, type: 2}
+  - {fileID: 11400000, guid: 24ebdea8932de2b429dd5fbcbcd88f9b, type: 2}
+  - {fileID: 11400000, guid: 299a981d1b051024aaf1bda23858d3f9, type: 2}
+  - {fileID: 11400000, guid: 4a416652cec7cc9458e978a25a6a4357, type: 2}
+  - {fileID: 11400000, guid: 9db1a773ce8ce9d408e9be383f1ee7d6, type: 2}

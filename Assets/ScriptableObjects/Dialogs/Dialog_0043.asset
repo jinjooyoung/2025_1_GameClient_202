@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de151bc0254fc8346b1762dcb2d1ca2c, type: 3}
+  m_Script: {fileID: 11500000, guid: 292035b660b23ab488c0d18187861c01, type: 3}
   m_Name: Dialog_0043
   m_EditorClassIdentifier: 
   id: 43
@@ -17,7 +17,7 @@ MonoBehaviour:
   text: "\uC624, \uCC3D\uC758\uC801\uC778 \uD574\uACB0\uCC45\uC774\uAD70! \uBB3C\uC774
     \uC870\uAE08 \uC0C8\uAE30\uB294 \uD588\uC9C0\uB9CC, \uADF8\uB798\uB3C4 \uAC00\uC838\uC654\uC73C\uB2C8
     \uACE0\uB9D9\uB124."
-  nextild: 44
+  nextiId: 44
   choices: []
   portrait: {fileID: 0}
   portraitPath: Characters/OldMan

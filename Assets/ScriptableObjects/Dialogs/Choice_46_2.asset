@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c5d3315ce962352458e55b76fb7b05a5, type: 3}
+  m_Script: {fileID: 11500000, guid: c082ef586d05e194e99fab5a8565174a, type: 3}
   m_Name: Choice_46_2
   m_EditorClassIdentifier: 
   text: "\uB2E4\uC2DC \uCC98\uC74C\uC73C\uB85C \uB3CC\uC544\uAC04\uB2E4"
